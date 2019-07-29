@@ -1,0 +1,12 @@
+public class obj3 {
+	int x=5;
+	String name="ms";
+     boolean XY=true;
+	public static void main(String[] args) {
+		obj3 mybag=new obj3();
+		System.out.println(mybag.x);
+		System.out.println(mybag.name);
+		System.out.println(mybag.XY);
+	}
+
+}
